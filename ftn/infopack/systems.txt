@@ -1,0 +1,16 @@
+
+                    .-. . . .-. .-. .-. . . .-. .-. 
+                    |.. |-| | | `-.  |  |\| |-   |  
+                    `-' ' ` `-' `-'  '  ' ` `-'  '  
+                            FTN System List
+                            Updated 6/28/24
+                                
+=============================================================================
+Node BBS Name                   Sysop                   Address    
+=============================================================================
+
+Net 1 (510:1/xxx) Synchronet (BinkIT)
+=====================================
+
+100 GHOSTnet Hub                Robbie Whiting          get-ghosted.com:24556
+101 Talisman FTN Bridge         Robbie Whiting          get-ghosted.com:24555          
