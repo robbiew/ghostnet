@@ -1,1 +1,1 @@
-# GHOSTnet-FTN-Infopack
+# GHOSTnet
