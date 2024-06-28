@@ -30,7 +30,7 @@ cd $WORKDIR
 git pull
 
 echo "Compiling nodelist..."
-makenl -d nodelist.txt >/dev/null
+./makenl -d nodelist.txt >/dev/null
 
 absfile=$(ls -rt outfile/ghostnet.[0-9]*|tail -1)
 file=$(echo $(basename $absfile))
