@@ -1,3 +1,4 @@
+
 # GHOSTnet
 
 ## What the Heck is GHOSTnet?
@@ -14,8 +15,9 @@ So, here are some topics you might find on GHOSTnet:
 - **White Hats and HPAVC:** Cybersecurity insights.
 - **Current Tech-Related Events:** Updates on what's happening in tech: personalities, controversies and other tech-centric news and happenings.
 - **Comics, Anime, and RPGs:** Deeper dives into these exciting worlds.
+- **Vintage + Modern Computing:** Old computers rigged with new hardware, software 
 
-In short, we'll cover a ton of interesting topics, ensuring it's not just the same ol' same ol' rinse and repeat!
+In short, we'll cover interesting topics, ensuring it's not just the same ol' same ol' rinse and repeat! Not to mention the ability for members to create their own subs.
 
 
 ### Wait, what is WWIVnet?
