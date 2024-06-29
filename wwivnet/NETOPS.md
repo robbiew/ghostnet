@@ -6,11 +6,7 @@ This is a guide to managing GHOSTnet, a WWIVnet based network. You don't need th
 - get-ghosted.com
   - WWIV v5.X: WWIVnet Hub:
     - WWIVnet nodes are managed here
-  - Synchronet BBS v3.X - FTN Hub:
-    - FTN nodes are managed here
-  - Talisman v5X.X - WWIVnet <> FTN Bridge:
-    - the FTN hub sends mail here, it is converted to WWIV format, and sent to the WWIV hub
-    - the WWIV hub send mail here, it is converted to FTN format, and sent to the FTN hub
+    - Need to SSH into hub to update files
 
 ## WWIVnet Hub
 ### Managing Nodes
