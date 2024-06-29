@@ -2,14 +2,9 @@
 
 This is a guide to managing GHOSTnet, a WWIVnet based network. You don't need this guide unless you are network adminstrator, or interested in how a WWIVnet network is managed.
 
-## GHOSTnet Network Architecture
-- get-ghosted.com
-  - WWIV v5.X: WWIVnet Hub:
-    - WWIVnet nodes are managed here
-    - Need to SSH into hub to update files
 
-## WWIVnet Hub
-### Managing Nodes
+# WWIVnet Hub
+## Managing Nodes
 New WWIVnet network nodes can be added by editing WWIVnet Hub hosts' files in `net/ghostnet/`. Refer to the [WWIVnet docs]([https://](https://docs.wwivbbs.org/en/latest/archive/net37_docs/)) for more info on these files, but note the docs are pretty outdated.
 
 It's best to keep these files version controlled, so Git is a good way to keep track of any changes to files listed below.
@@ -26,7 +21,7 @@ It's best to keep these files version controlled, so Git is a good way to keep t
 - Submit a pull request to the files on github (e.g. from your forked repo)
 - Chnages will be merged into the Main branch
 
-#### `bbslist.net`
+### `bbslist.net`
 This file is the network Node List. Start by adding a new node to this file.
 
 From the WWIVnet docs:  
@@ -57,7 +52,7 @@ Explained:
   - Unsure of the next column/flags but copied from WWIVnet*
   - BBS Name is the last item in the row
 
-#### `connect.net`
+### `connect.net`
 > CONNECT.NET lists the connection costs between systems. The cost listed should be the cost per minute, though for most networks using this system, the rule of thumb is 0.00 for local connects, 0.01 for long distance connects, and more for long distance connects that one wants to route less mail through.
 >
 > Each entry in the CONNECT.NET file specifies a one-way connection between two systems. The entries in the CONNECT.NET file do NOT need to be in any specific order. The format for system's connection entry is: the system number (preceded by "@"), first connection and cost (separated by "="), second connection and cost, and so forth. Like BBSLIST.NET, the first line is a tilde (~) followed by the UNIX timestamp.
@@ -79,7 +74,7 @@ Explained:
   - @1 is the Hub, ad should be connected to all nodes (until we add more Hubs)
   - Add new node to have their own row (@XX 1=0.0)
 
-#### `callout.net`
+### `callout.net`
 This file contains the routing for the network. If you wanted the Hub to call a system every 15 minutes, replace "+" with "/15". "+" means that node will call the Hub and the Hub will never call the node (the default for our network).
 
 ```
@@ -88,7 +83,7 @@ This file contains the routing for the network. If you wanted the Hub to call a 
 @4     +                 "NodEpassWorD"
 ```
 
-#### `binkp.net`
+### `binkp.net`
 I'm pretty sure this maps the binkp port that WWIVnet uses, to each node. There doesn't appear to be any documentation around this, but the file is in the WWIVnet repo. Just add the new node number, URL and bink port.
 
 ```
