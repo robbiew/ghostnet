@@ -83,6 +83,8 @@ This file contains the routing for the network. If you wanted the Hub to call a 
 @4     +                 "NodEpassWorD"
 ```
 
+IMPORTANT: DO NOT COMMIT CALLOUT.NET TO GITHUB AS IT CONTAINS PASSWORDS! 
+
 ### `binkp.net`
 I'm pretty sure this maps the binkp port that WWIVnet uses, to each node. There doesn't appear to be any documentation around this, but the file is in the WWIVnet repo. Just add the new node number, URL and bink port.
 
