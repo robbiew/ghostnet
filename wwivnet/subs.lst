@@ -5,7 +5,7 @@
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-GHSTSYS     1 GR    Sysop Only Area 
+GHSTSYS     1 R     Sysop Only Area 
 TESTING     1       Testing Area
 
 
@@ -34,7 +34,7 @@ FUNDOOR     1       Fun with Doors: Competitions, Resets, Releases, Help, Keys
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-GENCHAT     1 GR    General Chat
+GENCHAT     1 R     General Chat
 PROMOTE     2       Promote Your Sub: Tell us about your GHOSTnet area 
 BBS-ADS     2       Promote Your BBS
 CONTENT     2       Promote Your Online Channel, event
