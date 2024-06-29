@@ -259,3 +259,44 @@ d 28-Jun-2024 18:40:24 makenl[41135] myfnmerge: drive='' dir='/root/git/ghostnet
 d 28-Jun-2024 18:40:24 makenl[41135] /home/christian/git/personal/makenl-code/src/fileutil.c: cleanit(): cleanup no
 + 28-Jun-2024 18:40:24 makenl[41135] CRC = 17528
 + 28-Jun-2024 18:40:24 makenl[41135] MakeNL finished (rc=0)
+
+- 29-Jun-2024 00:09:08 makenl[47907] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 29-Jun-2024 00:09:08 makenl[47907] MakeNL started
+d 29-Jun-2024 00:09:08 makenl[47907] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='.'
+d 29-Jun-2024 00:09:08 makenl[47907] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: '.'
+d 29-Jun-2024 00:09:08 makenl[47907] os_fullpath(): dir='', name='', ext=''
+d 29-Jun-2024 00:09:08 makenl[47907] os_fullpath(): old directory='/root/git/ghostnet/ftn/nodelist'
+d 29-Jun-2024 00:09:08 makenl[47907] myfnmerge: drive='(null)' dir='/root/git/ghostnet/ftn/nodelist' name='' ext=''
+d 29-Jun-2024 00:09:08 makenl[47907] os_fullpath(): complete filename: '/root/git/ghostnet/ftn/nodelist/'
+d 29-Jun-2024 00:09:08 makenl[47907] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/root/git/ghostnet/ftn/nodelist/'
+d 29-Jun-2024 00:09:08 makenl[47907] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40775
+d 29-Jun-2024 00:09:08 makenl[47907] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='./outfile'
+d 29-Jun-2024 00:09:08 makenl[47907] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: './outfile'
+d 29-Jun-2024 00:09:08 makenl[47907] os_fullpath(): dir='.', name='outfile', ext=''
+d 29-Jun-2024 00:09:08 makenl[47907] os_fullpath(): old directory='/root/git/ghostnet/ftn/nodelist'
+d 29-Jun-2024 00:09:08 makenl[47907] myfnmerge: drive='(null)' dir='/root/git/ghostnet/ftn/nodelist' name='outfile' ext=''
+d 29-Jun-2024 00:09:08 makenl[47907] os_fullpath(): complete filename: '/root/git/ghostnet/ftn/nodelist/outfile'
+d 29-Jun-2024 00:09:08 makenl[47907] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/root/git/ghostnet/ftn/nodelist/outfile'
+d 29-Jun-2024 00:09:08 makenl[47907] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40775
+? 29-Jun-2024 00:09:08 makenl[47907] WARNING -- No net NAME given for list header (use /N or NAME verb)
++ 29-Jun-2024 00:09:08 makenl[47907] Cmdline: ./makenl "-D" "nodelist.txt"
++ 29-Jun-2024 00:09:08 makenl[47907] Using 'nodelist.txt' in '/root/git/ghostnet/ftn/nodelist'
++ 29-Jun-2024 00:09:08 makenl[47907] Begin processing 'ghostnet.' -- 0:09, Saturday, June 29, 2024
+d 29-Jun-2024 00:09:08 makenl[47907] myfnmerge: drive='(null)' dir='/root/git/ghostnet/ftn/nodelist/outfile' name='ghostnet.' ext='(null)'
+d 29-Jun-2024 00:09:08 makenl[47907] main(): shouldprocess /root/git/ghostnet/ftn/nodelist/outfile/ghostnet.
+d 29-Jun-2024 00:09:08 makenl[47907] myfnmerge: drive='' dir='/root/git/ghostnet/ftn/nodelist/outfile' name='ghostnet' ext='$$$'
+d 29-Jun-2024 00:09:08 makenl[47907] myfnmerge: drive='(null)' dir='/root/git/ghostnet/ftn/nodelist/' name='cpyright.txt' ext='(null)'
+d 29-Jun-2024 00:09:08 makenl[47907] myfnmerge: drive='(null)' dir='/root/git/ghostnet/ftn/nodelist/' name='prolog.txt' ext='(null)'
+d 29-Jun-2024 00:09:08 makenl[47907] CloseMSGFile: status=0
+d 29-Jun-2024 00:09:08 makenl[47907] CloseMSGFile: MSGnum=0
+d 29-Jun-2024 00:09:08 makenl[47907] myfnmerge: drive='(null)' dir='/root/git/ghostnet/ftn/nodelist/' name='epilog.txt' ext='(null)'
+d 29-Jun-2024 00:09:08 makenl[47907] myfnmerge: drive='(null)' dir='/root/git/ghostnet/ftn/nodelist/outfile' name='ghostnet.' ext='187'
+d 29-Jun-2024 00:09:08 makenl[47907] myfnmerge: drive='(null)' dir='/root/git/ghostnet/ftn/nodelist/outfile' name='ghostnet.' ext='180'
+d 29-Jun-2024 00:09:08 makenl[47907] myfnmerge: drive='' dir='/root/git/ghostnet/ftn/nodelist/outfile' name='ghostnet' ext='$$$'
+d 29-Jun-2024 00:09:08 makenl[47907] myfnmerge: drive='' dir='/root/git/ghostnet/ftn/nodelist/outfile' name='ghostnet' ext='187'
+d 29-Jun-2024 00:09:08 makenl[47907] myfnmerge: drive='(null)' dir='/root/git/ghostnet/ftn/nodelist/outfile' name='ghostnet.' ext='138'
+d 29-Jun-2024 00:09:08 makenl[47907] myfnmerge: drive='' dir='/root/git/ghostnet/ftn/nodelist/outfile' name='ghostnet' ext='180'
+d 29-Jun-2024 00:09:08 makenl[47907] Skip arc for /root/git/ghostnet/ftn/nodelist/outfile/ghostnet.187
+d 29-Jun-2024 00:09:08 makenl[47907] /home/christian/git/personal/makenl-code/src/fileutil.c: cleanit(): cleanup no
++ 29-Jun-2024 00:09:08 makenl[47907] CRC = 02988
++ 29-Jun-2024 00:09:08 makenl[47907] MakeNL finished (rc=0)
