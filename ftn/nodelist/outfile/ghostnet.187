@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, July 5, 2024 -- Day number 187 : 23069
+;A  Nodelist for Friday, July 5, 2024 -- Day number 187 : 40853
 ;A  Copyright 2024, GHOSTnet, All Rights Reserved
 ;A
 ;S 07/03/2024 GHOSTnet FTN compiles its first nodelist!
@@ -17,9 +17,9 @@ Region,510,GHOSTnet_RC_WHQ,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:
 ;
 Host,1,GHOSTnet_R1_HQ,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:get-ghosted.com,IBN:24558
 Hub,100,GHOSTnet_US_HQ,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:get-ghosted.com,IBN:24558
-,101,GHOSTnet_Talisman_Bridge,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,CM,ITN,INA:spacejunkbbs.com,IBN:24555
+,101,GHOSTnet_Talisman_Bridge,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,CM,ITN,INA:ghostnet-bridge.com,IBN:24555
 ,102,The_Underground,Lafayette_IN_US,theGodfather,Unpublished,9600,CM,ITN,INA:theunderground.us,IBN:24554
-,103,Space_Junk,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:get-ghosted.com,IBN:24557
+,103,Space_Junk,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:spacejunkbbs.com,IBN:24557
 ;S
 ;S
 ;S Mail Processing
