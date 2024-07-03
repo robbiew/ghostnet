@@ -3,7 +3,7 @@ master .
 ;update ./update
 ;make Zone 510
 make composite 
-outfile ghostnet.
+outfile ghostftn.
 ;submit 510:1/100
 ;netaddress 510:1/100
 ;messages ./netmail
