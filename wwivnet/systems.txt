@@ -13,6 +13,6 @@ WWIVnet BBSs
 ============
 
 @1 GHOSTnet WWIV Hub            Robbie Whiting          get-ghosted.com:24556
-@2 Ghosts in the Machine        Doug Cooper             ghostmachine.ddns.net:24557
+@2 Ghosts in the Machine        R3C0N Ghost             ghostmachine.ddns.net:24557
 @3 GHOSTnet Talisman Bridge     Robbie Whiting          get-ghosted.com:24557
 @4 Space Junk!                  Robbie Whiting          spacejunkbbs.com:24555
