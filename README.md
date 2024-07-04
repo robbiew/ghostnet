@@ -28,7 +28,7 @@ GHOSTnet Goals:
 4.  Be kind to one another.
 5.  Value and protect free speech not censorship with the obvious exception of threats to person or property or other illegal forms of speech.
 6.  No Spam.
-7.  WWIV and Talisman SysOps are encouraged to make subs they have time to host:  keep on topic as best as possible, 
+7.  WWIV and Talisman SysOps are encouraged to make subs they have time to host:  keep on topic as best as possible.
    
 ##GHOSTnet Initial Offerings:
 - **GHOSTnet Landing Page:  GHOSTnet Announcements, news, new subs, developments, public SysOp discussion 
