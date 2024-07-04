@@ -2,16 +2,17 @@
 # GHOSTnet
 
 ## What the Heck is GHOSTnet?
-**GHOSTnet** No fear, we're just here to add some excitement into your life!  
+**GHOSTnet** No fear, just looking to add fun and excitement to your life!
 We are a shiny new email and message network for Bulletin Board Systems (BBSes) running on the WWIV network platform for WWIV BBSes, that then bridge to FTN for all GHOSTnet subscribers to enjoy, regardless of your choice of 
 BBS Software.   
 
 ##About GHOSTnet
 In 2020 many returned to BBSing to escape the toxicity of social media during difficult times for our world. Many life long friendships were made, reminding each of us that BBSing is not a museum, rather a timeless
 avenue of genuine friendships and fun.  Fast forwarding to 2024 and the "return to normal" left a bit of dust on the dashboard of great BBSes and FTN's alike, as SysOps and users return to the everyday grind of life.
-So let's stir the pot, get out the armorall and shine up the BBS's, shall we?  If ya wouldn't abandon your family and friends, get back to your BBS!
+GHOSTnet hopes to stir the pot, get out the armorall and shine up the BBS's, collectively with your help, shall we?   
 
-Why another network?  We don't want to create a replacement for great networks ranging from FsxNet to WWIVnet ... We want to be an suppliment and grow.
+Why another network?  We don't want to create a replacement for great networks ranging from FsxNet to WWIVnet ... heck, we're members of them!  We want to be an suppliment and grow BBSes and the BBS community, and bridge
+the new and the old so there is a torch to pass along there .. Casper.
 
 GHOSTnet Goals:
 1.  Experiment with the WWIV network, bridging to FTNs, so all users can enjoy.
