@@ -29,7 +29,7 @@ GHOSTnet Goals:
 6.  No Spam.
 7.  WWIV and Talisman SysOps are encouraged to make subs they have time to host:  keep on topic as best as possible, 
    
-##GHOSTnet Initial Offerings .. show them to your kids and see if we're missing anything .. but if you want to let us know you'll have to fire up a Talisman or WWIV BBS and let them or yourself add the topics to reach our "customer service deparment."  
+##GHOSTnet Initial Offerings:
 - **GHOSTnet Landing Page:  GHOSTnet Announcements, news, new subs, developments, public SysOp discussion 
 - **Announcements and "Livestream" updates: advertising and notifications for content creators, server events, on all platforms from the BBS back to the future!
 - **You're running that on what?:** Merging new tech and the BBS or vice versa.  Running a BBS on an Andriod? A Microcomputer?  Playing Doom on your cars GPS?  Started a game server? Coding an API? HowTo's with Webhooks, and more.
@@ -49,9 +49,6 @@ GHOSTnet Goals:
 - **Situational Preparedness:** Discussions on homesteading, gardening, event preparedness, inflation-proofing, shopping deals, HAM Radio and other communications, and more!
 - **Promote your GHOSTnet Channel / Area / Sub (ANSI Welcome, no BBS Ads)
 - **GHOSTnet SysOps ONLY and Testing
-
-In short, we'll cover interesting topics, ensuring it's not just the same ol' same ol' rinse and repeat, while also not dependant on one person or bot feeding content to avoid a GHOST ... Town ... of a network. 
-So, common .. boo .. whatcha waiting for?  The world to end?  Let's get back to having fun!
 
 ### More about WWIVnet, in which GHOSTnet runs on:
 
