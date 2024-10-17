@@ -2,16 +2,17 @@
 # GHOSTnet
 
 ## What the Heck is GHOSTnet?
-**GHOSTnet** No fear, just looking to add fun and excitement to your life!
-We are a shiny new email and message network for Bulletin Board Systems (BBSes) running on the WWIV network platform for WWIV BBSes, that then bridge to FTN for all GHOSTnet subscribers to enjoy, regardless of your choice of 
-BBS Software.   
+**GHOSTnet** No fear, just looking to add fun and excitement to your life and BBS!
+We are a shiny new email and message network for Bulletin Board Systems (BBSes) running on the WWIV network platform for ALL BBSes to enjoy, by bridging to FTN for all GHOSTnet subscribers, while preserving the 
+delicious greatness of WWIVnet benefits for you WWIV and Talisman SysOps out there that remember the glory days of WWIVnet and ICEnet, and the sheer joy of running or subscribing to content taylored to your BBS.
 
 ##About GHOSTnet
 In 2020 many returned to BBSing to escape the toxicity of social media during difficult times for our world. Many life long friendships were made, reminding each of us that BBSing is not a museum, rather a timeless
-avenue of genuine friendships and fun.  Fast forwarding to 2024 and the "return to normal" left a bit of dust on the dashboard of great BBSes and FTN's alike, as SysOps and users return to the everyday grind of life.
-GHOSTnet hopes to stir the pot, get out the armorall and shine up the BBS's, collectively with your help, shall we?   
+avenue of genuine friendships and fun.  Fast forwarding to 2024 and the "return to normal" left a bit of dust on the dashboard of great BBSes and FTN's alike, as SysOps and users return to the everyday grind of life.  
+We at GHOSTnet surely don't want to see another early 2000's where traffic disappeared, and our hope is to stir the pot, get out the armorall and shine up the BBS's and not lose great friendships ever again.  Collectively with your help, 
+we can do this, right?!  
 
-Why another network?  We don't want to create a replacement for great networks ranging from FsxNet to WWIVnet ... heck, we're members of them!  We want to be an suppliment and grow BBSes and the BBS community, and bridge
+Why another network?  We don't want to create a replacement for great networks ranging from FsxNet to WWIVnet ... heck, we're members of them!  We want to be an suppliment and grow BBSes and the BBS community, bridge
 the new and the old so there is a torch to pass along there .. Casper.
 
 GHOSTnet Goals:
@@ -32,22 +33,21 @@ GHOSTnet Goals:
    
 ##GHOSTnet Initial Offerings:
 - **GHOSTnet Landing Page:  GHOSTnet Announcements, news, new subs, developments, public SysOp discussion 
-- **Announcements and "Livestream" updates: advertising and notifications for content creators, server events, on all platforms from the BBS back to the future!
-- **You're running that on what?:** Merging new tech and the BBS or vice versa.  Running a BBS on an Andriod? A Microcomputer?  Playing Doom on your cars GPS?  Started a game server? Coding an API? HowTo's with Webhooks, and more.
-- **The Doors in review:  Not the band, the games!  Announcements, Competitions, Resets, Releases, Install Help, Keys, and more!
+- **Announcements and "Livestream" updates:** advertising and notifications for content creators, server events, on all platforms from the BBS back to the future!
+- **You're running WHAT on THAT?:** Merging new tech and the BBS or vice versa.  Running a BBS on an Andriod? A Microcomputer?  Playing Doom on your cars GPS?  Started a game server? Coding an API? HowTo's with Webhooks, and more.
+- **The Doors in review:**  Not the band, the games!  Announcements, Competitions, Resets, Releases, Install Help, Keys, and more!
+- **Goldmine Game Server:** Support, Suggestions, Updates, and more.
 - **BBS Mods:** BBS Mod announcements, Scripting, Doors, Web Development, Containers, Help, Tips, Tricks, and more.
 - **Vintage Computing:** Old computers rigged with new hardware & software, keeping it classic and preserved?  What are you working on?
 - **Text Mode Art: ANSI & ASCII only, art pack posting, individual ANSI posts, no discussion, no BBS ads.
-- **Text Mode Art: Discussion, Requests, Tutorials, Critique, praise
 - **Man versus the Machine:** Discussions surrounding AI tools, news, advancements, concerns and benefits.  
 - **PC and Server Hardware:** Parts, Builds, Reviews, Discussion: Gaming, NAS, Plex/Jelly, and more! 
 - **Beyond the PC:  Current Tech-Related Events and News** Updates on what's happening in tech: Personalities, Controversies, beyond PC tech-centric news and happenings.
 - **The White Hats:** HPAVC past and present, Cybersecurity discussion, how to's
 - **Modern Gaming, Systems & sites:  Modern gaming how to, cheats, tips, tricks, reviews, discussion, and Sites (Epic, Steam, Rougelite, and more..)
-- **The Geek Shack:  Anime, Comics, Card and board games, Game Stores ... 
-- **Skibidi Toilet:  Funny topics, YouTUbe, Twitch and other funny videos, click bait, and brain rot.
-- **What the Signma:  Understanding your kids (and the younger generations) slang and funny "Urban Dictionary" meanings.
-- **Situational Preparedness:** Discussions on homesteading, gardening, event preparedness, inflation-proofing, shopping deals, HAM Radio and other communications, and more!
+- **The Geek Shack:  Anime, Comics, Card and board games, SciFi, Urban Legends, Paranormal, UFO's, Conspiracy Theories, anything Geekish and fun! 
+- **Skibidi Toilet:  Funny topics, YouTUbe, Twitch and other funny videos, click bait, and brain rot, understanding your kids slang words, or creating new ones to F' wtih them.
+- **Situational Preparedness:** Discussions on homesteading, gardening, food preservation, event preparedness, inflation-proofing, Personal Protection, Home Security, HAM Radio and other communications, Digital Prepping, and more!
 - **Promote your GHOSTnet Channel / Area / Sub (ANSI Welcome, no BBS Ads)
 - **GHOSTnet SysOps ONLY and Testing
 
