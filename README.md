@@ -9,7 +9,7 @@ In 2020, many returned to BBSing to escape social media, forming lifelong friend
 
 We don't aim to replace networks like FsxNet or WWIVnet but to supplement them, growing the BBS community through innovation and fun.
 
-**GHOSTNet** also allows sysops running WWIV or Talisman BBSes to host their own subs without needing special permission from a network admin/owner, as long as they follow the network rules. This gives sysops the freedom to create unique message areas and topics, fostering diverse and rich discussions. This self-hosting flexibility is only available to sysops using WWIV or Talisman platforms, making it a powerful tool for those seeking to build and grow their BBS communities.
+**GHOSTNet** also allows sysops running WWIV or Talisman BBSes to host their own subs without needing special permission from a network admin/owner, as long as they follow the network rules. This gives sysops the freedom to create unique message areas and topics, fostering diverse and rich discussions. Note: this self-hosting sub  flexibility is only available to sysops using WWIV or Talisman platforms, making it a powerful tool for those seeking to build and grow their BBS communities.
 
 ## GHOSTnet Goals:
 
