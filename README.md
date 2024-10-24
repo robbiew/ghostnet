@@ -29,26 +29,27 @@ We don't aim to replace networks like FsxNet or WWIVnet but to supplement them, 
 6. No spam.
 7. WWIV and Talisman SysOps are encouraged to host relevant subs.
 
-## GHOSTnet Initial Offerings:
+Here's the updated section with your revised "GHOSTnet Initial Offerings":
 
-- **Landing Page:** News, announcements, and SysOp discussions.
-- **Content Creation Updates:** Announcements for content creators and server events.
-- **New Tech on BBS:** Merging modern tech with BBSes.
-- **Game Reviews:** Door games, announcements, and competitions.
-- **Goldmine Game Server:** Updates and support.
-- **BBS Mods:** Announcements and tips for BBS mods and scripting.
+---
+
+### GHOSTnet Initial Offerings:
+
+- **SysOp Landing Page:** News, testing, collaborative GHOSTnet creations. SysOps Only.
+- **Content Creation and Events:** Digital meetups, server events, scene channel promotion, content releases, game and BBS events.
+- **The Doors:** Game servers, support, how-to guides, discussion, announcements, resets, and competitions.
+- **BBS Mods:** Collaboration, support, tips, and announcements for BBS mods and scripting.
 - **Vintage Computing:** Updates on old tech with new hardware/software.
-- **ANSI/ASCII Art:** Art pack postings with no discussion.
-- **AI Discussions:** Conversations on AI tools and advancements.
-- **Hardware Discussions:** Reviews and builds for gaming, NAS, etc.
-- **Tech News:** Current events in the tech world.
-- **Cybersecurity:** HPAVC and security discussions.
+- **ANSI/ASCII Art:** Share your art, discussions, new pack releases, tutorials, feedback. No ads.
+- **New Tech on BBS:** Merging modern tech with BBSes.
+- **Hardware Discussions:** Reviews and builds for servers, gaming, NAS, media servers, micro-computing, HAM, etc.
+- **Beyond the PC Tech Talk:** AI, robotics, smart homes/tech, home security, A/V, EV, energy, aerospace, communications, etc.
 - **Modern Gaming:** Reviews and discussions on modern games.
-- **Geek Culture:** Anime, comics, board games, and more.
-- **Funny Topics:** YouTube, Twitch, slang, and humor.
-- **Preparedness:** Discussions on homesteading, security, and prepping.
+- **Geek Culture:** Anime, comics, card/board games, sci-fi, and other hobbies.
+- **Click Bait:** We all use it, just accept it. YouTube, Twitch, TikTok, social media, and brain rot humor.
 - **Promote Your Sub:** Promote your channel or sub.
-- **SysOps Only:** SysOp discussions and testing.
+
+--- 
 
 ### About WWIVnet:
 
