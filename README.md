@@ -5,7 +5,7 @@
 **GHOSTnet** is an email and message network for BBSes, designed for fun and to enhance your modern BBS experience.
 
 ### About GHOSTnet
-In 2020, many returned to BBSing to escape social media, forming lifelong friendships. As life returned to "normal" in 2024, we aim to prevent the decline of BBS activity. GHOSTnet wants to keep the community alive by bridging the gap between the old and new while fostering collaboration.
+In 2020, many returned to BBSing to escape social media, forming lifelong friendships. As life returned to "normal", we aim to prevent the decline of BBS activity (again). GHOSTnet wants to keep the community alive by bridging the gap between the old and new while fostering collaboration and non-toxic conversation.
 
 We don't aim to replace networks like FsxNet or WWIVnet but to supplement them, growing the BBS community through innovation and fun.
 
