@@ -4,11 +4,16 @@
 
 **GHOSTnet** is a new email and message network for BBSes, designed for fun and to enhance your BBS experience! It connects WWIV BBSes to FTN while maintaining the unique benefits of WWIVnet for WWIV and Talisman SysOps, rekindling the excitement of BBSing.
 
-## About GHOSTnet
+Here's the updated section with the added text:
 
+---
+
+### About GHOSTnet
 In 2020, many returned to BBSing to escape social media, forming lifelong friendships. As life returned to "normal" in 2024, we aim to prevent the decline of BBS activity. GHOSTnet wants to keep the community alive by bridging the gap between the old and new while fostering collaboration.
 
 We don't aim to replace networks like FsxNet or WWIVnet but to supplement them, growing the BBS community through innovation and fun.
+
+**GHOSTNet** also allows sysops running WWIV or Talisman BBSes to host their own subs without needing special permission from a network admin/owner, as long as they follow the network rules. This gives sysops the freedom to create unique message areas and topics, fostering diverse and rich discussions. This self-hosting flexibility is only available to sysops using WWIV or Talisman platforms, making it a powerful tool for those seeking to build and grow their BBS communities.
 
 ## GHOSTnet Goals:
 
