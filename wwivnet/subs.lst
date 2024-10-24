@@ -6,8 +6,8 @@
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
 GHSTSYS     1 R     SysOps Landing Page
-TALTEST     1 R     GHOSTnet Sysop Support for Talisman BBS Setups
 PROMOTE     1 R     Promote Your Sub / Message Area
+TALTEST     1 R     GHOSTnet Sysop Support for Talisman BBS Setups
 
 ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ 
 2.   Computers 
@@ -50,3 +50,6 @@ BEYNDPC     1  R    Beyond the PC Tech Talk
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
 TEXTMOD	    1 R     ANSI/ASCII Art  No Event BBS Ads.
+
+
+
