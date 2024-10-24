@@ -52,6 +52,12 @@ We don't aim to replace networks like FsxNet or WWIVnet but to supplement them, 
 
 **WWIVnet** is a BBS-based network using WWIV’s message and network system, similar to FTN networks. Any sysop can create a message/topic and allow others to subscribe. WWIVnet fosters collaboration, free speech, and a customizable experience for BBS sysops and users.
 
+### Bridging Between WWIVNet and FTN Networks
+
+One of GHOSTnet's unique features is the ability to **bridge** messages between WWIVnet and FTN-based networks using Talisman BBS. Talisman allows importing and exporting messages between these two systems, ensuring consistent communication across both network types. This seamless integration lets BBSes maintain the structure and benefits of WWIVnet while also participating in the larger FTN ecosystem, making it easier for sysops to manage and interact with users from both networks. 
+
+This bridging capability helps unify the BBS community, allowing for cross-network discussions without losing the unique strengths of either system.
+
 ### How to Join:
 
 To join GHOSTnet using WWIVnet (for WWIV and Talisman BBSes), check out:
