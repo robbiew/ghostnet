@@ -21,12 +21,13 @@ We don't aim to replace networks like FsxNet or WWIVnet but to supplement them, 
 
 ## Requirements:
 
-1. Your BBS should be customized, not stock.
-2. Your BBS must be up for at least 90 days.
-3. No BBS ads set to events.
-4. Be kind and promote free speech while avoiding illegal content.
-5. No spam.
-6. WWIV and Talisman SysOps are encouraged to host relevant subs.
+1. Your BBS is capable of running an FTN or WWIVnet based network.
+2. Your BBS should be customized, not stock.
+3. Your BBS must be up for at least 90 days.
+4. No BBS ads or messages set to events or auto-added.
+5. Be kind and promote free speech while avoiding illegal content.
+6. No spam.
+7. WWIV and Talisman SysOps are encouraged to host relevant subs.
 
 ## GHOSTnet Initial Offerings:
 
