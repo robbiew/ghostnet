@@ -2,9 +2,7 @@
 
 ## What is GHOSTnet?
 
-**GHOSTnet** is a new email and message network for BBSes, designed for fun and to enhance your BBS experience! It connects WWIV BBSes to FTN while maintaining the unique benefits of WWIVnet for WWIV and Talisman SysOps, rekindling the excitement of BBSing.
-
-Here's the updated section with the added text:
+**GHOSTnet** is a new email and message network for BBSes, designed for fun and to enhance your BBS experience!
 
 ---
 
