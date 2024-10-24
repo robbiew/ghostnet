@@ -14,7 +14,7 @@ We don't aim to replace networks like FsxNet or WWIVnet but to supplement them, 
 ## GHOSTnet Goals:
 
 1. Bridge WWIV network to FTNs for all users.
-2. Cater to a broad audience, including teens.
+2. Cater to a broad audience, including a new generation of BBS users.
 3. Inspire sysops, developers, and users to grow the BBS community.
 4. Encourage modern BBS features through mods and coding.
 5. Have fun and support one another!
