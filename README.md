@@ -60,6 +60,11 @@ One of GHOSTnet's unique features is the ability to **bridge** messages between 
 
 This bridging capability helps unify the BBS community, allowing for cross-network discussions without losing the unique strengths of either system.
 
+#### Notes on Bridging:
+- FTN and WWIVnet-based subs will have a "common" base for all
+- Self-hosted subs may intially only be availible for WWIV and Talisman sysops
+- Self-hosted subs may be added to the FTN on a case-by-case basis (it's a manual process right now)
+
 ### How to Join:
 
 To join GHOSTnet using WWIVnet (for WWIV and Talisman BBSes), check out:
