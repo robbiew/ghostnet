@@ -1,108 +1,64 @@
-
 # GHOSTnet
 
-## What the Heck is GHOSTnet?
-**GHOSTnet** No fear, just looking to add fun and excitement to your life and BBS!
-We are a shiny new email and message network for Bulletin Board Systems (BBSes) running on the WWIV network platform for ALL BBSes to enjoy, by bridging to FTN for all GHOSTnet subscribers, while preserving the 
-delicious greatness of WWIVnet benefits for you WWIV and Talisman SysOps out there that remember the glory days of WWIVnet and ICEnet, and the sheer joy of running or subscribing to content taylored to your BBS.
+## What is GHOSTnet?
 
-##About GHOSTnet
-In 2020 many returned to BBSing to escape the toxicity of social media during difficult times for our world. Many life long friendships were made, reminding each of us that BBSing is not a museum, rather a timeless
-avenue of genuine friendships and fun.  Fast forwarding to 2024 and the "return to normal" left a bit of dust on the dashboard of great BBSes and FTN's alike, as SysOps and users return to the everyday grind of life.  
-We at GHOSTnet surely don't want to see another early 2000's where traffic disappeared, and our hope is to stir the pot, get out the armorall and shine up the BBS's and not lose great friendships ever again.  Collectively with your help, 
-we can do this, right?!  
+**GHOSTnet** is a new email and message network for BBSes, designed for fun and to enhance your BBS experience! It connects WWIV BBSes to FTN while maintaining the unique benefits of WWIVnet for WWIV and Talisman SysOps, rekindling the excitement of BBSing.
 
-Why another network?  We don't want to create a replacement for great networks ranging from FsxNet to WWIVnet ... heck, we're members of them!  We want to be an suppliment and grow BBSes and the BBS community, bridge
-the new and the old so there is a torch to pass along there .. Casper.
+## About GHOSTnet
 
-GHOSTnet Goals:
-1.  Experiment with the WWIV network, bridging to FTNs, so all users can enjoy.
-2.  Serve up topics great for all ages, some actually teenage approved, to reach a broader audience of users than just GenX and Boomers.
-3.  Inspire sysops, developers, artists, and users to work together to attract/draw and build a larger BBS community in a forward thinking manner. 
-4.  Support, encourage, and create BBS features through mods and coding that continue to modernize the world of BBSing in a non cookie cutter way.
-4.  To play, have fun, and be there for one another!
+In 2020, many returned to BBSing to escape social media, forming lifelong friendships. As life returned to "normal" in 2024, we aim to prevent the decline of BBS activity. GHOSTnet wants to keep the community alive by bridging the gap between the old and new while fostering collaboration.
 
-##Requirements
-1.  Your BBS must be customized and not a stock BBS unless in active development as the author and or beta tester.
-2.  Your BBS must be up for a minimum of 90 days to prevent unecessary add/removes.
-3.  NO BBS Ads set to events.  We have enough of those right?  Build a tagline, people will come.
-4.  Be kind to one another.
-5.  Value and protect free speech not censorship with the obvious exception of threats to person or property or other illegal forms of speech.
-6.  No Spam.
-7.  WWIV and Talisman SysOps are encouraged to make subs they have time to host:  keep on topic as best as possible.
-   
-##GHOSTnet Initial Offerings:
-- **GHOSTnet Landing Page:  GHOSTnet Announcements, news, new subs, developments, public SysOp discussion 
-- **Announcements and "Livestream" updates:** advertising and notifications for content creators, server events, on all platforms from the BBS back to the future!
-- **You're running WHAT on THAT?:** Merging new tech and the BBS or vice versa.  Running a BBS on an Andriod? A Microcomputer?  Playing Doom on your cars GPS?  Started a game server? Coding an API? HowTo's with Webhooks, and more.
-- **The Doors in review:**  Not the band, the games!  Announcements, Competitions, Resets, Releases, Install Help, Keys, and more!
-- **Goldmine Game Server:** Support, Suggestions, Updates, and more.
-- **BBS Mods:** BBS Mod announcements, Scripting, Doors, Web Development, Containers, Help, Tips, Tricks, and more.
-- **Vintage Computing:** Old computers rigged with new hardware & software, keeping it classic and preserved?  What are you working on?
-- **Text Mode Art: ANSI & ASCII only, art pack posting, individual ANSI posts, no discussion, no BBS ads.
-- **Man versus the Machine:** Discussions surrounding AI tools, news, advancements, concerns and benefits.  
-- **PC and Server Hardware:** Parts, Builds, Reviews, Discussion: Gaming, NAS, Plex/Jelly, and more! 
-- **Beyond the PC:  Current Tech-Related Events and News** Updates on what's happening in tech: Personalities, Controversies, beyond PC tech-centric news and happenings.
-- **The White Hats:** HPAVC past and present, Cybersecurity discussion, how to's
-- **Modern Gaming, Systems & sites:  Modern gaming how to, cheats, tips, tricks, reviews, discussion, and Sites (Epic, Steam, Rougelite, and more..)
-- **The Geek Shack:  Anime, Comics, Card and board games, SciFi, Urban Legends, Paranormal, UFO's, Conspiracy Theories, anything Geekish and fun! 
-- **Skibidi Toilet:  Funny topics, YouTUbe, Twitch and other funny videos, click bait, and brain rot, understanding your kids slang words, or creating new ones to F' wtih them.
-- **Situational Preparedness:** Discussions on homesteading, gardening, food preservation, event preparedness, inflation-proofing, Personal Protection, Home Security, HAM Radio and other communications, Digital Prepping, and more!
-- **Promote your GHOSTnet Channel / Area / Sub (ANSI Welcome, no BBS Ads)
-- **GHOSTnet SysOps ONLY and Testing
+We don't aim to replace networks like FsxNet or WWIVnet but to supplement them, growing the BBS community through innovation and fun.
 
-### More about WWIVnet, in which GHOSTnet runs on:
+## GHOSTnet Goals:
 
-**WWIVnet** is a WWIV BBS-based network that uses WWIV's message and network packet system to share email and sub messages. Similar to the many FidoNet Technology-based networks (FTN), there are numerous WWIVnet-based networks.
+1. Bridge WWIV network to FTNs for all users.
+2. Cater to a broad audience, including teens.
+3. Inspire sysops, developers, and users to grow the BBS community.
+4. Encourage modern BBS features through mods and coding.
+5. Have fun and support one another!
 
-WWIV was a very popular BBS softare package in the 80's to early 2000's, that as of 2024 is still in development.  WWIV's incredible feature set adds since 2020 deserve some love and showcase.  
-WWIV has always been open source, and to date has it's own non-FTN style network system called WWIVnet.  The advantage to WWIVnet is that any SysOp can create their own WWIVnet message/topic and 
-allow others to subscribe to it, all from their own BBS, while also subscribe to message areas (subs) that others within the network create.  A "Subs List" will routinely be made available for for 
-everyone to review "whats new."  In addition, the SysOp can set whether they want to auto validate or individually approve other SysOps wanting to subscribe to their "topic" of discussion.  
+## Requirements:
 
-##About WWIVnet From BBS Wiki Fandom
-"In it's prime WWIVnet represented 1700 systems, however it's popularity wasn't without its share of controversy. To quite a few non-WWIV sysops, using WWIV was a sign of rebellion against the 
-status quo; in fact, several key FIDOnet administrators were quoted on several occasions that they firmly believed that running a WWIV board meant that you were probably running a 
-"pirate" or "hacker" BBS, and that no WWIV BBS should be allowed access to FIDOnet. This would lead to Bell's creation of WWIVnet in 1988, which at its peak became was the world's largest 
-proprietary BBS network, and while the total number of systems never exceeded 1700, the sheer amount of traffic passed over the network was almost double that of FIDOnet for almost a two year period 
-between 1991 and 1993. Much of the traffic difference can easily be attributed to WWIVnet's general acceptance of Freedom of Speech as a right and not a privilege, something that many FIDOnet forum 
-admins could not acknowledge, and even let abuse of the right get way out of hand on more occasions than the scope of this entry could account for."
+1. Your BBS should be customized, not stock.
+2. Your BBS must be up for at least 90 days.
+3. No BBS ads set to events.
+4. Be kind and promote free speech while avoiding illegal content.
+5. No spam.
+6. WWIV and Talisman SysOps are encouraged to host relevant subs.
 
-Controversy existed within the WWIV Universe as well with the inception of WWIVlink, which did not require a WWIV registration number to be a part of, unlike WWIVnet.  A third appeared that was 
-near and dear to the heart of any Text Mode Art Loving BBS User:  ICEnet.  All three networks were based on the WWIV netkworking system and not FTN.    
+## GHOSTnet Initial Offerings:
 
-WWIVnet 1700 systems
-IceNET 850 systems
-WWIVlink 675 systems
+- **Landing Page:** News, announcements, and SysOp discussions.
+- **Content Creation Updates:** Announcements for content creators and server events.
+- **New Tech on BBS:** Merging modern tech with BBSes.
+- **Game Reviews:** Door games, announcements, and competitions.
+- **Goldmine Game Server:** Updates and support.
+- **BBS Mods:** Announcements and tips for BBS mods and scripting.
+- **Vintage Computing:** Updates on old tech with new hardware/software.
+- **ANSI/ASCII Art:** Art pack postings with no discussion.
+- **AI Discussions:** Conversations on AI tools and advancements.
+- **Hardware Discussions:** Reviews and builds for gaming, NAS, etc.
+- **Tech News:** Current events in the tech world.
+- **Cybersecurity:** HPAVC and security discussions.
+- **Modern Gaming:** Reviews and discussions on modern games.
+- **Geek Culture:** Anime, comics, board games, and more.
+- **Funny Topics:** YouTube, Twitch, slang, and humor.
+- **Preparedness:** Discussions on homesteading, security, and prepping.
+- **Promote Your Sub:** Promote your channel or sub.
+- **SysOps Only:** SysOp discussions and testing.
 
-#### How to Join via WWIVnet
+### About WWIVnet:
 
-If you want to join GHOSTnet using the WWIVnet system (WWIV and Talisman), check out the documentation:
+**WWIVnet** is a BBS-based network using WWIV’s message and network system, similar to FTN networks. Any sysop can create a message/topic and allow others to subscribe. WWIVnet fosters collaboration, free speech, and a customizable experience for BBS sysops and users.
+
+### How to Join:
+
+To join GHOSTnet using WWIVnet (for WWIV and Talisman BBSes), check out:
 - [WWIV Documentation](https://docs.wwivbbs.org)
 - [Talisman Documentation](https://talismanbbs.com/docs)
 
-**Note:** For GHOSTnet, "WWIVnet" refers to WWIV's message and packet system, not the network called WWIVnet.
-
-### WWIV BBS
-
-WWIV BBS supports both Fido Technology Network (FTN) and the traditional WWIVnet style networking. If you're running a WWIV BBS, here are some cool advantages of using WWIVNet over FTN:
-
-- **Well-documented:** Easy to set up and add subs.
-- **User Flexibility:** Allows any user to create and host/moderate their own subs, potentially running their own sub-network, as long as it adheres to GHOSTnet's rules and terms of service.
-
-### OK, what's a FidoNet Technology Network (FTN)?
-
-**FidoNet** is a worldwide computer network used for communication between BBSes. It's still active! "FTN" refers to networks following the FidoNet standard, not the actual network called FidoNet.
-
-### Crap, which Network Should I Join?
-
-Still deciding? Each network has its own perks, so consider what fits your needs best. Whether you choose WWIVnet or FTN, GHOSTnet brings everyone together!
-
-# How to Join
-
-# Host your own sub
-
-# Da Rulez
+**Note:** WWIVnet refers to the WWIV message system, not the specific WWIVnet network.
 
 ---
 
