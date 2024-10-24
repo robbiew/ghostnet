@@ -31,24 +31,20 @@ We don't aim to replace networks like FsxNet or WWIVnet but to supplement them, 
 
 ## GHOSTnet Initial Offerings:
 
-- **Landing Page:** News, announcements, general discussions, collaborative GHOSTnet creations.
+- **SysOp Landing Page:** News, testing, collaborative GHOSTnet creations. SysOps Only
 - **Content Creation and Events:** Digital Meet Ups, Server Events, Scene Channel Promotion, Content Releases, Game and BBS events.
-- **The Doors:** Support, How To's, Discussion, Announcements, Resets, and competitions.
-- **Goldmine Game Server:** Updates and support.
+- **The Doors:** Game Servers, Support, How To's, Discussion, Announcements, Resets, and competitions.
 - **BBS Mods:** collaboration, support, tips, announcements for BBS mods and scripting.
 - **Vintage Computing:** Updates on old tech with new hardware/software.
 - **ANSI/ASCII Art:** posting your Art, discussion, new pack releases, tutorials, feedback, No Ads.
 - **New Tech on BBS:** Merging modern tech with BBSes.
-- **Cybersecurity:** HPAVC and security discussions.
-- **AI and Robotics:** Conversations on AI tools, advancements, ethics.
-- **Hardware Discussions:** Reviews and builds for gaming, NAS, Media Servers, Micro-computing, etc.
-- **Beyond the PC Tech Talk:** SMART Homes/Tech, Home Security, A/V, EV, Energy, Aero Space, Communications, etc.
+- **Hardware Discussions:** Reviews and builds for servers, gaming, NAS, Media Servers, Micro-computing, HAM, etc.
+- **Beyond the PC Tech Talk:** Ai, Robotics, SMART Homes/Tech, Home Security, A/V, EV, Energy, Aero Space, Communications, etc.
 - **Modern Gaming:** Reviews and discussions on modern games.
-- **Geek Culture:** Anime, comics, card/board games, SciFi,and more.
-- **Click Bait:** YouTube-Twitch video shares, funny stories, brain rot, slang teens use, and other humor.
-- **Preparedness:** Discussions on homesteading, security & self defense, and situational prepping.
+- **Geek Culture:** Anime, comics, card/board games, SciFi,and hobbies more.
+- **Click Bait:  We all use it, just accept it.  YouTube-Twitch, TikTok, Ahem Social Media, and Brain Rot Humor.
 - **Promote Your Sub:** Promote your channel or sub.
-- **SysOps Only and Testing** SysOps Only.
+
 
 ### About WWIVnet:
 
