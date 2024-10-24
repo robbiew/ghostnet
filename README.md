@@ -38,16 +38,16 @@ Here's the updated section with your revised "GHOSTnet Initial Offerings":
 - **SysOp Landing Page:** News, testing, collaborative GHOSTnet creations. SysOps Only.
 - **Content Creation and Events:** Digital meetups, server events, scene channel promotion, content releases, game and BBS events.
 - **The Doors:** Game servers, support, how-to guides, discussion, announcements, resets, and competitions.
-- **BBS Mods:** Collaboration, support, tips, and announcements for BBS mods and scripting.
-- **Vintage Computing:** Updates on old tech with new hardware/software.
-- **ANSI/ASCII Art:** Share your art, discussions, new pack releases, tutorials, feedback. No ads.
-- **New Tech on BBS:** Merging modern tech with BBSes.
-- **Hardware Discussions:** Reviews and builds for servers, gaming, NAS, media servers, micro-computing, HAM, etc.
+- **Modding BBSes:** Collaboration, support, tips, and announcements for BBS mods and scripting.
+- **Vintage Computing Discussion:** Updates on old tech with new hardware/software.
+- **ANSI/ASCII Art No BBS Events:** Share your art, discussions, new pack releases, tutorials, feedback. No ads.
+- **New Tech on BBSes:** Merging modern tech with BBSes.
+- **The Hardware Forum:** Reviews and builds for servers, gaming, NAS, media servers, micro-computing, HAM, etc.
 - **Beyond the PC Tech Talk:** AI, robotics, smart homes/tech, home security, A/V, EV, energy, aerospace, communications, etc.
 - **Modern Gaming:** Reviews and discussions on modern games.
 - **Geek Culture:** Anime, comics, card/board games, sci-fi, and other hobbies.
-- **Click Bait:** We all use it, just accept it. YouTube, Twitch, TikTok, social media, and brain rot humor.
-- **Promote Your Sub:** Promote your channel or sub.
+- **Click Bait: Soc. Media and Alt LInks:** We all use it, just accept it. YouTube, Twitch, TikTok, social media, and brain rot humor.
+- **Promote Your Sub / Message Area:** Promote your channel or sub.
 
 --- 
 
