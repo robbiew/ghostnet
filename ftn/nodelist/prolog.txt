@@ -1,6 +1,6 @@
-;S 07/03/2024 GHOSTnet FTN compiles its first nodelist!
-;S 07/03/2024 All nodes are required to have Cram-MD5 ON.
-;S 07/03/2024 All nodes will be auto-subscribed to all message echos.
+;S 10/25/2024 GHOSTnet FTN compiles its first nodelist!
+;S 10/25/2024 All nodes are required to have Cram-MD5 ON.
+;S 10/25/2024 All nodes will be auto-subscribed to all message echos.
 ;S
 ;S Notice:
 ;S

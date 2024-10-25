@@ -5,7 +5,7 @@
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-GHSTSYS     1 R     SysOps Landing Page
+GHSTSYS     1 R     SysOp Landing Page
 PROMOTE     1 R     Promote Your Sub / Message Area
 
 ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ 
@@ -21,9 +21,9 @@ HRDDISK     1  R    The Hardware Forum
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-BBSMODS     1 R     Modding BBSes 
-FUNDOOR     1 R     The Doors Serves, Events, Setup
-NTONBBS     1 R     New Tech on BBSes
+BBSMODS     1 R     BBS Mods: All Platforms 
+FUNDOOR     1 R     The Doors: Servers, Events & Setup
+NTONBBS     1 R     New Tech on BBSs
 
 ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ 
 4.   General Discussion
@@ -31,7 +31,7 @@ NTONBBS     1 R     New Tech on BBSes
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
 CNTEVNT     1 R     Content Creation and Events
-CLKBAIT     1 R     Click Bait: Social Media and Alt Links
+CLKBAIT     1 R     Clickbait: Social Media & Links
 
 
 ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ 
@@ -41,14 +41,14 @@ CLKBAIT     1 R     Click Bait: Social Media and Alt Links
  ====== ----- ===== ----------------------------------------------------------
 MGAMING     1  R    Modern Gaming    
 GEEKSHK     1  R    The Geek Shack: Anime/Comics/Games/SciFi
-BEYNDPC     1  R    Beyond the PC Tech Talk
+BEYNDPC     1  R    Beyond the PC: Tech Talk
 
 ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ 
 6.   Text Mode
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-TEXTMOD	    1 R     ANSI/ASCII Art  No Event BBS Ads.
+TEXTMOD	    1 R     ANSI/ASCII Art - No BBS Ads
 
 
 
