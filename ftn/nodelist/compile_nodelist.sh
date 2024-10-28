@@ -4,8 +4,8 @@
 # https://github.com/christiansacks/tqwnet_nodelist/
 
 ORIGDIR=$PWD
-IWORKDIR="~/git/ghostnet/ftn/nodelist"
-IPACKDIR="~/git/ghostnet/ftn/infopack"
+IWORKDIR="~/GitHub/ghostnet/ftn/nodelist"
+IPACKDIR="~/GitHub/ghostnet/ftn/infopack"
 WORKDIR="${1:-$IWORKDIR}"
 PACKDIR="${2:-$IPACKDIR}"
 
