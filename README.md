@@ -74,6 +74,10 @@ To join GHOSTnet using WWIVnet (for WWIV and Talisman BBSes), check out:
 
 **Note:** WWIVnet refers to the WWIV message system, not the specific WWIVnet network.
 
+### Network Utilities
+
+Custom network utulities have been written for GHOSTnet by @apamment (Apam). You can [access them here](https://github.com/apamment/ghostup).
+
 ---
 
 Happy messaging on GHOSTnet! 🚀📬
