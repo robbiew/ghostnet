@@ -1,1 +1,45 @@
 
+
+- 28-Oct-2024 23:42:07 makenl[5573] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 28-Oct-2024 23:42:07 makenl[5573] MakeNL started
+d 28-Oct-2024 23:42:07 makenl[5573] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='.'
+d 28-Oct-2024 23:42:07 makenl[5573] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: '.'
+d 28-Oct-2024 23:42:07 makenl[5573] os_fullpath(): dir='', name='', ext=''
+d 28-Oct-2024 23:42:07 makenl[5573] os_fullpath(): old directory='/home/bbs/git/ghostnet/ftn/nodelist'
+d 28-Oct-2024 23:42:07 makenl[5573] myfnmerge: drive='(null)' dir='/home/bbs/git/ghostnet/ftn/nodelist' name='' ext=''
+d 28-Oct-2024 23:42:07 makenl[5573] os_fullpath(): complete filename: '/home/bbs/git/ghostnet/ftn/nodelist/'
+d 28-Oct-2024 23:42:07 makenl[5573] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/bbs/git/ghostnet/ftn/nodelist/'
+d 28-Oct-2024 23:42:07 makenl[5573] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40775
+d 28-Oct-2024 23:42:07 makenl[5573] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='./outfile'
+d 28-Oct-2024 23:42:07 makenl[5573] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: './outfile'
+d 28-Oct-2024 23:42:07 makenl[5573] os_fullpath(): dir='.', name='outfile', ext=''
+d 28-Oct-2024 23:42:07 makenl[5573] os_fullpath(): old directory='/home/bbs/git/ghostnet/ftn/nodelist'
+d 28-Oct-2024 23:42:07 makenl[5573] myfnmerge: drive='(null)' dir='/home/bbs/git/ghostnet/ftn/nodelist' name='outfile' ext=''
+d 28-Oct-2024 23:42:07 makenl[5573] os_fullpath(): complete filename: '/home/bbs/git/ghostnet/ftn/nodelist/outfile'
+d 28-Oct-2024 23:42:07 makenl[5573] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/bbs/git/ghostnet/ftn/nodelist/outfile'
+d 28-Oct-2024 23:42:07 makenl[5573] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): stat('/home/bbs/git/ghostnet/ftn/nodelist/outfile') rc=-1!
+? 28-Oct-2024 23:42:07 makenl[5573] outpath ./outfile -- Invalid Path -- './outfile'
+? 28-Oct-2024 23:42:07 makenl[5573] Error(s) in configuration file
+? 28-Oct-2024 23:42:07 makenl[5573] MakeNL finished (rc=255)
+
+- 28-Oct-2024 23:43:51 makenl[5903] MakeNL 3.5.1 (Linux) compiled with GNU C on Aug 28 2019 10:23:50
++ 28-Oct-2024 23:43:51 makenl[5903] MakeNL started
+d 28-Oct-2024 23:43:51 makenl[5903] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='.'
+d 28-Oct-2024 23:43:51 makenl[5903] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: '.'
+d 28-Oct-2024 23:43:51 makenl[5903] os_fullpath(): dir='', name='', ext=''
+d 28-Oct-2024 23:43:51 makenl[5903] os_fullpath(): old directory='/home/bbs/git/ghostnet/ftn/nodelist'
+d 28-Oct-2024 23:43:51 makenl[5903] myfnmerge: drive='(null)' dir='/home/bbs/git/ghostnet/ftn/nodelist' name='' ext=''
+d 28-Oct-2024 23:43:51 makenl[5903] os_fullpath(): complete filename: '/home/bbs/git/ghostnet/ftn/nodelist/'
+d 28-Oct-2024 23:43:51 makenl[5903] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/bbs/git/ghostnet/ftn/nodelist/'
+d 28-Oct-2024 23:43:51 makenl[5903] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): st_mode is now 40775
+d 28-Oct-2024 23:43:51 makenl[5903] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): called with src='./outfile'
+d 28-Oct-2024 23:43:51 makenl[5903] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): after removing slash: './outfile'
+d 28-Oct-2024 23:43:51 makenl[5903] os_fullpath(): dir='.', name='outfile', ext=''
+d 28-Oct-2024 23:43:51 makenl[5903] os_fullpath(): old directory='/home/bbs/git/ghostnet/ftn/nodelist'
+d 28-Oct-2024 23:43:51 makenl[5903] myfnmerge: drive='(null)' dir='/home/bbs/git/ghostnet/ftn/nodelist' name='outfile' ext=''
+d 28-Oct-2024 23:43:51 makenl[5903] os_fullpath(): complete filename: '/home/bbs/git/ghostnet/ftn/nodelist/outfile'
+d 28-Oct-2024 23:43:51 makenl[5903] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): absolute path '/home/bbs/git/ghostnet/ftn/nodelist/outfile'
+d 28-Oct-2024 23:43:51 makenl[5903] /home/christian/git/personal/makenl-code/src/os.c: os_fulldir(): stat('/home/bbs/git/ghostnet/ftn/nodelist/outfile') rc=-1!
+? 28-Oct-2024 23:43:51 makenl[5903] outpath ./outfile -- Invalid Path -- './outfile'
+? 28-Oct-2024 23:43:51 makenl[5903] Error(s) in configuration file
+? 28-Oct-2024 23:43:51 makenl[5903] MakeNL finished (rc=255)
