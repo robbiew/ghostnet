@@ -32,14 +32,14 @@ git pull
 echo "Compiling nodelist..."
 ./makenl -d nodelist.txt >/dev/null
 
-absfile=$(ls -rt outfile/ghostnet.[0-9]*|tail -1)
+absfile=$(ls -rt outfile/ghostftn.[0-9]*|tail -1)
 file=$(echo $(basename $absfile))
 ext=$(echo $file | awk -F. '{ print $2 }') 
 newext="z${ext:1:2}" 
 
-echo "Creating zip archive ghostnet.$newext..."
-[ -f zip/ghostnet.$newext ] && mv zip/ghostnet.$newext{,.`date +%Y%m%d`}
-zip -j9 zip/ghostnet.$newext $absfile
+echo "Creating zip archive ghostftn.$newext..."
+[ -f zip/ghostftn.$newext ] && mv zip/ghostftn.$newext{,.`date +%Y%m%d`}
+zip -j9 zip/ghostftn.$newext $absfile
 
 git add . -A
 git commit -m "$COMMIT"
@@ -50,14 +50,14 @@ echo "Now in $PACKDIR directory..."
 
 git pull
 
-rm $PACKDIR/ghostnet.z*
-rm $PACKDIR/ghostnetinfo.zip
+rm $PACKDIR/ghostftn.z*
+rm $PACKDIR/ghostftninfo.zip
 
-echo "Copy $WORKDIR/zip/ghostnet.$newext $PACKDIR/"
-cp $WORKDIR/zip/ghostnet.$newext $PACKDIR/
+echo "Copy $WORKDIR/zip/ghostftn.$newext $PACKDIR/"
+cp $WORKDIR/zip/ghostftn.$newext $PACKDIR/
 
-echo "Creating zip archive $PACKDIR/ghostnetinfo.zip..."
-zip -j9 $PACKDIR/ghostnetinfo.zip $PACKDIR/*
+echo "Creating zip archive $PACKDIR/ghostftninfo.zip..."
+zip -j9 $PACKDIR/ghostftninfo.zip $PACKDIR/*
 
 git add . -A
 git commit -m "$COMMIT"
