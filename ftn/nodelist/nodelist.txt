@@ -20,3 +20,4 @@ Host,1,GHOSTnet_R1_HQ,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:get-g
 Hub,100,GHOSTnet_US_HQ,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:get-ghosted.com,IBN:24558
 ,101,GHOSTnet_FTN_WWIVNET_Bridge,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,CM,ITN,INA:ghostnet-bridge.com,IBN:24559
 ,102,The_Underground,Lafayette_IN_US,The_Godfather,Unpublished,9600,CM,ITN,INA:theunderground.us,IBN:24554
+,103,Space_Junk,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,CM,ITN,INA:spacejunkbbs.com,IBN:24555

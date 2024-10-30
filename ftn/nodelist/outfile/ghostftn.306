@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, November 1, 2024 -- Day number 306 : 27055
+;A  Nodelist for Friday, November 1, 2024 -- Day number 306 : 59271
 ;A  Copyright 2024, GHOSTnet, All Rights Reserved
 ;A
 ;S 10/25/2024 All nodes will be auto-subscribed to all message echos.
@@ -17,6 +17,7 @@ Host,1,GHOSTnet_R1_HQ,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:get-g
 Hub,100,GHOSTnet_US_HQ,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:get-ghosted.com,IBN:24558
 ,101,GHOSTnet_FTN_WWIVNET_Bridge,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,CM,ITN,INA:ghostnet-bridge.com,IBN:24559
 ,102,The_Underground,Lafayette_IN_US,The_Godfather,Unpublished,9600,CM,ITN,INA:theunderground.us,IBN:24554
+,103,Space_Junk,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,CM,ITN,INA:spacejunkbbs.com,IBN:24555
 ;S
 ;S
 ;S Mail Processing
