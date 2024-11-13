@@ -29,8 +29,6 @@ We don't aim to replace networks like FsxNet or WWIVnet but to supplement them, 
 6. No spam.
 7. WWIV and Talisman SysOps are encouraged to host relevant subs.
 
-Here's the updated section with your revised "GHOSTnet Initial Offerings":
-
 ---
 
 ### GHOSTnet Initial Offerings:
