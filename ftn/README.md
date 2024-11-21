@@ -81,27 +81,12 @@ Before making changes, ensure your fork is up-to-date with the original reposito
    - Create the updated infopack ZIP file.
    - Commit the changes to Github.
 
-3. Verify that the script completes successfully. The output files will be generated in the appropriate directories.
 
-#### **7. Commit and Push Changes to Your Fork**
-1. Add the changes to Git:
-   ```bash
-   git add .
-   ```
-2. Commit your changes with a clear message:
-   ```bash
-   git commit -m "Update nodelist and/or infopack with latest changes"
-   ```
-3. Push the changes to your fork:
-   ```bash
-   git push
-   ```
-
-#### **8. Create a Pull Request**
+#### **6. Create a Pull Request**
 1. Go to your forked repository on GitHub.
 2. Click the **Pull Request** button.
 3. Compare your branch with the original `main` branch of the [GhostNet repository](https://github.com/robbiew/ghostnet).
-4. Add a clear title and description of your changes (e.g., "Updated nodelist and system lists").
+4. Add a clear title and description of your changes (e.g., "Add node 510:X/XXX, update systems.txt").
 5. Submit the pull request.
 
 #### **9. Wait for Review**
@@ -109,7 +94,7 @@ The repository maintainers will review your pull request. Once approved, your ch
 
 ---
 
-### **3. Notes**
+### **7. Notes**
 - **Changes to the Infopack**: The infopack includes files that end users rely on for instructions, system lists, and echo areas. Ensure these are clearly written and accurate to maintain usability.
 - **SSH Key Setup**: Ensure your SSH key is correctly configured to avoid authentication errors. Test your SSH connection with:
    ```bash
@@ -117,4 +102,3 @@ The repository maintainers will review your pull request. Once approved, your ch
    ```
 - **Always Pull Updates**: Synchronize your fork with the upstream repository to avoid conflicts before starting any work.
 
-By following this workflow, you can confidently update both the nodelist and the infopack while ensuring your changes are reviewed and approved before being merged into the main repository.
