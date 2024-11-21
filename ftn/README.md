@@ -2,7 +2,7 @@
 
 ### Instructions for Updating the GhostNet FTN Nodelist Repository
 
-Authorized GitHub users (Designated Network Admins) must use the **fork and pull request** process to update and compile the GhostNet nodelist or infopack. The `compile_nodelist.sh` script is located in the `ftn/nodelist` directory and handles compiling the nodelist and creating the infopack ZIP file and sending back to Github.
+Authorized GitHub users (Designated Network Admins) must use the **fork and pull request** process to update and compile the GhostNet nodelist or infopack. The `compile_nodelist.sh` script is located in the `ftn/nodelist` directory and handles compiling the nodelist and creating the infopack ZIP file and sending back to Github. Special thanks to [Christian Sacks aka MeatLion](https://github.com/christiansacks/tqwnet_nodelist) for the code examples from TQWNet to pull all this together!
 
 ---
 
@@ -10,7 +10,7 @@ Authorized GitHub users (Designated Network Admins) must use the **fork and pull
 Before starting, ensure you have the following:
 - Git installed on your system.
 - A working SSH key added to your GitHub account for repository access. Refer to [GitHub's documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) to set up your SSH key.
-- Required tools installed:
+- Required tools installed (included in this repo):
   - `makenl`: Used for compiling the nodelist.
   - Bash shell to run the `compile_nodelist.sh` script.
 
