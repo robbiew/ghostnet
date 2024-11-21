@@ -68,7 +68,7 @@ Before making changes, ensure your fork is up-to-date with the original reposito
 3. Save the changes.
 
 #### **6. Compile the Nodelist and Infopack**
-1. If you made changes to the nodelist, navigate to the `ftn/nodelist` directory:
+1. Navigate to the `ftn/nodelist` directory:
    ```bash
    cd ftn/nodelist
    ```
@@ -79,6 +79,7 @@ Before making changes, ensure your fork is up-to-date with the original reposito
    This script will:
    - Compile the nodelist using `makenl`.
    - Create the updated infopack ZIP file.
+   - Commit the changes to Github.
 
 3. Verify that the script completes successfully. The output files will be generated in the appropriate directories.
 
