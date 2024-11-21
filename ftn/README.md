@@ -82,19 +82,19 @@ Before making changes, ensure your fork is up-to-date with the original reposito
    - Commit the changes to Github.
 
 
-#### **6. Create a Pull Request**
+#### **7. Create a Pull Request**
 1. Go to your forked repository on GitHub.
 2. Click the **Pull Request** button.
 3. Compare your branch with the original `main` branch of the [GhostNet repository](https://github.com/robbiew/ghostnet).
 4. Add a clear title and description of your changes (e.g., "Add node 510:X/XXX, update systems.txt").
 5. Submit the pull request.
 
-#### **9. Wait for Review**
+#### **8. Wait for Review**
 The repository maintainers will review your pull request. Once approved, your changes will be merged into the main repository.
 
 ---
 
-### **7. Notes**
+### **Notes**
 - **Changes to the Infopack**: The infopack includes files that end users rely on for instructions, system lists, and echo areas. Ensure these are clearly written and accurate to maintain usability.
 - **SSH Key Setup**: Ensure your SSH key is correctly configured to avoid authentication errors. Test your SSH connection with:
    ```bash
