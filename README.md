@@ -2,52 +2,47 @@
 
 ## What is GHOSTnet?
 
-**GHOSTnet** is an email and message network for BBSes, designed for fun and to enhance your modern BBS experience.
+**GHOSTnet** is an email and message network for BBSes, with a goal to stir up creativity and further enhance modern BBS experiences, focused on the future of BBSing and growing user activity.
 
 ### About GHOSTnet
 In 2020, many returned to BBSing to escape social media, forming lifelong friendships. As life returned to "normal", we aim to prevent the decline of BBS activity (again). GHOSTnet wants to keep the community alive by bridging the gap between the old and new while fostering collaboration and non-toxic conversation.
 
-We don't aim to replace networks like FsxNet or WWIVnet but to supplement them, growing the BBS community through innovation and fun.
+We don't aim to replace networks like FsxNet or WWIVnet but to supplement them, growing the BBS community through innovation, fun, and unique conversation.
 
-**GHOSTNet** also allows sysops running WWIV or Talisman BBSes to host their own subs without needing special permission from a network admin/owner, as long as they follow the network rules. This gives sysops the freedom to create unique message areas and topics, fostering diverse and rich discussions. Note: this self-hosting sub  flexibility is only available to sysops using WWIV or Talisman platforms, making it a powerful tool for those seeking to build and grow their BBS communities.
+**GHOSTNet** allows sysops running WWIV or Talisman BBSes to host their own subs without needing special permission from a network admin/owner, as long as they follow the network rules. This gives sysops the freedom to create unique, private or public, message areas and topics custom taylored to meet the needs of a SysOps desired theme and atmosphere. Note: that while self-hosting / sub flexibility is a unique feature of WWIV or Talisman platforms, and is a powerful tool for those seeking to build and grow their BBS communities, a great line up of FTN message areas will be offered to non WWIV/Talisman platforms to also enjoy.
 
 ## GHOSTnet Goals:
 
-1. Bridge WWIV network to FTNs for all users.
-2. Cater to a broad audience, including a new generation of BBS users.
-3. Inspire sysops, developers, and users to grow the BBS community.
-4. Encourage modern BBS features through mods and coding.
-5. Have fun and support one another!
+1. Bridge WWIV network to FTNs for all BBS Software Platforms and their users.
+2. Cater to a broad audience, including a new generation of BBS users and topics of interst to them.
+3. Inspire SysOps, developers, artists, and users to grow the GhostNet BBS community.
+4. Encourage modern BBS features through mods, coding, and customization tips.
+5. Have fun and support one another without overlapping discussion topics found on other networks!
 
 ## Requirements:
-
-1. Your BBS is capable of running an FTN or WWIVnet based network.
-2. Your BBS should be customized, not stock.
+1. Your BBS is capable of running an Fido or WWIV based network.
+2. Your BBS should be customized, not stock, unless a developer.
 3. Your BBS must be up for at least 90 days.
 4. No BBS ads or messages set to events or auto-added.
-5. Be kind and promote free speech while avoiding illegal content.
+5. Be kind and promote free speech while avoiding illegal content and unecessary drama and conflict.
 6. No spam.
 7. WWIV and Talisman SysOps are encouraged to host relevant subs.
 
----
+## GHOSTnet Initial Offerings for FIDO and WWIV based networks:
 
-### GHOSTnet Initial Offerings:
-
-- **SysOp Landing Page:** News, testing, collaborative GHOSTnet creations. SysOps Only.
-- **Content Creation and Events:** Digital meetups, server events, scene channel promotion, content releases, game and BBS events.
-- **The Doors:** Game servers, support, how-to guides, discussion, announcements, resets, and competitions.
-- **Modding BBSes:** Collaboration, support, tips, and announcements for BBS mods and scripting.
-- **Vintage Computing Discussion:** Updates on old tech with new hardware/software.
-- **ANSI/ASCII Art No BBS Events:** Share your art, discussions, new pack releases, tutorials, feedback. No ads.
-- **New Tech on BBSes:** Merging modern tech with BBSes.
-- **The Hardware Forum:** Reviews and builds for servers, gaming, NAS, media servers, micro-computing, HAM, etc.
-- **Beyond the PC Tech Talk:** AI, robotics, smart homes/tech, home security, A/V, EV, energy, aerospace, communications, etc.
+- **SysOp Landing Page:** News, testing, collaborative GHOSTnet creations. SysOps Only
+- **Content Creation and Events:** Digital Meet Ups, Server Events, Scene Channel Promotion, Content Releases, Game and BBS events.
+- **The Doors:** Game Servers, Support, How To's, Discussion, Announcements, Resets, and competitions.
+- **BBS Mods:** collaboration, support, tips, announcements for BBS mods and scripting.
+- **Vintage Computing:** Updates on old tech with new hardware/software.
+- **ANSI/ASCII Art:** posting your Art, discussion, new pack releases, tutorials, feedback, No Ads.
+- **New Tech on BBS:** Merging modern tech with BBSes.
+- **Hardware Discussions:** Reviews and builds for servers, gaming, NAS, Media Servers, Micro-computing, HAM, etc.
+- **Beyond the PC Tech Talk:** Ai, Robotics, SMART Homes/Tech, Home Security, A/V, EV, Energy, Aero Space, Communications, etc.
 - **Modern Gaming:** Reviews and discussions on modern games.
-- **Geek Culture:** Anime, comics, card/board games, sci-fi, and other hobbies.
-- **Click Bait: Soc. Media and Alt LInks:** We all use it, just accept it. YouTube, Twitch, TikTok, social media, and brain rot humor.
-- **Promote Your Sub / Message Area:** Promote your channel or sub.
-
---- 
+- **Geek Culture:** Anime, comics, card/board games, SciFi,and hobbies more.
+- **Click Bait:**  We all use it, just accept it.  YouTube-Twitch, TikTok, Ahem Social Media, and Brain Rot Humor.
+- **Promote Your Sub:** Promote your channel or sub.
 
 ### About WWIVnet:
 
