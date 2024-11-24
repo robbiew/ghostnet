@@ -21,3 +21,6 @@ Hub,100,GHOSTnet_US_HQ,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:get-
 ,101,GHOSTnet_Talisman_Bridge,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,CM,ITN,INA:ghostnet-bridge.com,IBN:24555
 ,102,The_Underground,Lafayette_IN_US,theGodfather,Unpublished,9600,CM,ITN,INA:theunderground.us,IBN:24554
 ,103,Space_Junk,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:spacejunkbbs.com,IBN:24557
+,104,Bloodlust,Queensland_AUS,apam,Unpublished,9600,CM,ITN,INA:starlight.zapto.org,IBN:24556
+,105,The_Ruins,Lafayette_IN_US,Jaxson,Unpublished,9600,CM,ITN,INA,theunderground.us,IBN:24555
+
