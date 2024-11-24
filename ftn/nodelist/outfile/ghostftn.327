@@ -1,9 +1,7 @@
-;A  Nodelist for Friday, July 5, 2024 -- Day number 187 : 40853
+;A  Nodelist for Friday, November 22, 2024 -- Day number 327 : 49681
 ;A  Copyright 2024, GHOSTnet, All Rights Reserved
 ;A
-;S 07/03/2024 GHOSTnet FTN compiles its first nodelist!
-;S 07/03/2024 All nodes are required to have Cram-MD5 ON.
-;S 07/03/2024 All nodes will be auto-subscribed to all message echos.
+;S 10/25/2024 All nodes will be auto-subscribed to all message echos.
 ;S
 ;S Notice:
 ;S
@@ -17,9 +15,10 @@ Region,510,GHOSTnet_RC_WHQ,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:
 ;
 Host,1,GHOSTnet_R1_HQ,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:get-ghosted.com,IBN:24558
 Hub,100,GHOSTnet_US_HQ,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:get-ghosted.com,IBN:24558
-,101,GHOSTnet_Talisman_Bridge,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,CM,ITN,INA:ghostnet-bridge.com,IBN:24555
-,102,The_Underground,Lafayette_IN_US,theGodfather,Unpublished,9600,CM,ITN,INA:theunderground.us,IBN:24554
-,103,Space_Junk,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:spacejunkbbs.com,IBN:24557
+,101,GHOSTnet_FTN_WWIVNET_Bridge,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,CM,ITN,INA:ghostnet-bridge.com,IBN:24559
+,102,The_Underground,Lafayette_IN_US,The_Godfather,Unpublished,9600,CM,ITN,INA:theunderground.us,IBN:24554
+,103,Space_Junk!,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,CM,ITN,INA:spacejunkbbs.com,IBN:24555
+,104,Bloodlust,Queensland_AUS,apam,Unpublished,9600,CM,ITN,INA:starlight.zapto.org,IBN:24556
 ;S
 ;S
 ;S Mail Processing

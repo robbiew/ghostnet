@@ -1,57 +1,54 @@
 
 
 ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ 
-1.   Sysop Related
+1.   GHOSTNet Sysops
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-GHSTSYS     1 R     Sysop Only Area 
-TESTING     1       Testing Area
-
+GHSTSYS     1 R     SysOp Landing Page
+PROMOTE     1 R     Promote Your Sub / Message Area
 
 ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ 
 2.   Computers 
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-MANVMAC     2       Man versus Machine: Discussions surrounding AI
-RUNONWH     2       You're running that on what?: Merging new tech and the BBS
-VINTAGE     1       Vintage Computing: What are you working on?
-TECHNWS     2       Tech News: Current events and happenings
-WHITEHT     2       White Hats and H/P/A/V/C: Insights, How-To, Security, Q&A
-PCNSRVR     2       PC/Server Hardware: Builds, Gaming, NAS, Media Server
+VINTAGE     1  R    Vintage Computing Discussion
+HRDDISK     1  R    The Hardware Forum
 
 ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ 
 3.   BBS-related 
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-BBSMODS     1       BBS: Mods, Scripting, Development, Help, Tips, Tricks
-FUNDOOR     1       Fun with Doors: Competitions, Resets, Releases, Help, Keys
+BBSMODS     1 R     BBS Mods: All Platforms 
+FUNDOOR     1 R     The Doors: Servers, Events & Setup
+NTONBBS     1 R     New Tech on BBSs
 
 ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ 
 4.   General Discussion
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-GENCHAT     1 R     General Chat
-PROMOTE     2       Promote Your Sub: Tell us about your GHOSTnet area 
-BBS-ADS     2       Promote Your BBS
-CONTENT     2       Promote Your Online Channel, event
+CNTEVNT     1 R     Content Creation and Events
+CLKBAIT     1 R     Clickbait: Social Media & Links
+
 
 ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ 
 5.   Nerd Alert
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-MGAMING     2       Modern Gaming: How to, tips, tricks, reviews, discussion
-GEEKSHK     2       The Geek Shack: Anime, Comics, Pokemon' and other games
-PREPARE     2       Situational Preparedness: homesteading, gardening, canning
+MGAMING     1  R    Modern Gaming    
+GEEKSHK     1  R    The Geek Shack: Anime/Comics/Games/SciFi
+BEYNDPC     1  R    Beyond the PC: Tech Talk
 
 ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ 
 6.   Text Mode
 
  SubType Host Flags Description
  ====== ----- ===== ----------------------------------------------------------
-TEXTART     2       Text Mode Art: ANSI & ASCII only, no discussion, no BBS ads
-TEXTDIS     2       Text Mode Art: Discussion, Requests, Tutorials, Critique
+TEXTMOD	    1 R     ANSI/ASCII Art - No BBS Ads
+
+
+

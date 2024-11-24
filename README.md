@@ -41,9 +41,8 @@ We don't aim to replace networks like FsxNet or WWIVnet but to supplement them, 
 - **Beyond the PC Tech Talk:** Ai, Robotics, SMART Homes/Tech, Home Security, A/V, EV, Energy, Aero Space, Communications, etc.
 - **Modern Gaming:** Reviews and discussions on modern games.
 - **Geek Culture:** Anime, comics, card/board games, SciFi,and hobbies more.
-- **Click Bait:  We all use it, just accept it.  YouTube-Twitch, TikTok, Ahem Social Media, and Brain Rot Humor.
+- **Click Bait:**  We all use it, just accept it.  YouTube-Twitch, TikTok, Ahem Social Media, and Brain Rot Humor.
 - **Promote Your Sub:** Promote your channel or sub.
-
 
 ### About WWIVnet:
 
@@ -67,6 +66,10 @@ To join GHOSTnet using WWIVnet (for WWIV and Talisman BBSes), check out:
 - [Talisman Documentation](https://talismanbbs.com/docs)
 
 **Note:** WWIVnet refers to the WWIV message system, not the specific WWIVnet network.
+
+### Network Utilities
+
+Custom network utulities have been written for GHOSTnet by @apamment (Apam). You can [access them here](https://github.com/apamment/ghostup).
 
 ---
 
