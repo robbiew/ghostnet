@@ -21,12 +21,15 @@ We don't aim to replace networks like FsxNet or WWIVnet but to supplement them, 
 
 ## Requirements:
 1. Your BBS is capable of running an Fido or WWIV based network.
-2. Your BBS should be customized, not stock, unless a developer.
-3. Your BBS must be up for at least 90 days.
-4. No BBS ads or messages set to events or auto-added.
-5. Be kind and promote free speech while avoiding illegal content and unecessary drama and conflict.
-6. No spam.
-7. WWIV and Talisman SysOps are encouraged to host relevant subs.
+2. Your BBS should be customized, not stock, unless:
+    a. You're a developer
+    b. Known contributor to the BBS communities engagement.
+    c. Active SysOp supportive to those new, hub operator, ANSI artist, Net Admin.
+5. Your BBS must be up for at least 90 days.
+6. No BBS ads or messages set to events or auto-added.
+7. Be kind and promote free speech while avoiding illegal content and unecessary drama and conflict.
+8. No spam.
+9. WWIV and Talisman SysOps are encouraged to host relevant subs.
 
 ## GHOSTnet Initial Offerings for FIDO and WWIV based networks:
 
