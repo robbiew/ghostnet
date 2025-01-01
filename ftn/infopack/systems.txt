@@ -5,15 +5,17 @@
                             FTN System List
                             Updated 10/25/24
                                 
-=============================================================================
-Node BBS Name                 Sysop           Address                Software  
-=============================================================================
+===============================================================================
+Node BBS Name                 Sysop            Address               Software  
+===============================================================================
 
 Net 1 (510:1/xxx)
-=====================================
+===============================================================================
 
-100 GHOSTnet FTN Hub          GhostOps        get-ghosted.com        Syncrhonet
-101 Talisman FTN/WWIV Bridge  GhostOps        n/a                    Talisman
-102 The Underground           The Godfather   theunderground.us      Mystic
-103 Space Junk!               j0hnny a1pha    spacejunkbbs.com       Talisman
-104 Bloodlust                 apam            starlight.zapto.org    Envy 
+100 GHOSTnet FTN Hub          GhostOp          get-ghosted.com       Syncrhonet
+101 Talisman FTN/WWIV Bridge  GhostOp          n/a                   Talisman
+102 The Underground           The Godfather    theunderground.us     Mystic
+103 Space Junk!               j0hnny a1pha     spacejunkbbs.com      Talisman
+104 Bloodlust                 apam             starlight.zapto.org   Envy 
+105 The Ruins                 Jaxson           starlight.zapto.org   Envy 
+106 USS Excelsior BBS         DARKMAN ALMIGHTY theunderground.us     Mystic 
