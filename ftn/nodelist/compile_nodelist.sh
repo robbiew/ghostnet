@@ -41,7 +41,7 @@ echo "Creating zip archive ghostftn.$newext..."
 [ -f zip/ghostftn.$newext ] && mv zip/ghostftn.$newext{,.`date +%Y%m%d`}
 zip -j9 zip/ghostftn.$newext $absfile
 
-git add . -A
+git add . -a
 git commit -m "$COMMIT"
 git push
 
