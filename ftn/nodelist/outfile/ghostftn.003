@@ -1,4 +1,4 @@
-;A  Nodelist for Friday, January 3, 2025 -- Day number 003 : 40315
+;A  Nodelist for Friday, January 3, 2025 -- Day number 003 : 01114
 ;A  Copyright 2024, GHOSTnet, All Rights Reserved
 ;A
 ;S 10/25/2024 All nodes will be auto-subscribed to all message echos.
@@ -16,11 +16,12 @@ Region,510,GHOSTnet_RC_WHQ,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:
 Host,1,GHOSTnet_R1_HQ,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:get-ghosted.com,IBN:24558
 Hub,100,GHOSTnet_US_HQ,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:get-ghosted.com,IBN:24558
 ,101,GHOSTnet_Talisman_Bridge,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,CM,ITN,INA:ghostnet-bridge.com,IBN:24555
-,102,The_Underground,Lafayette_IN_US,theGodfather,Unpublished,9600,CM,ITN,INA:theunderground.us,IBN:24554
+,102,The_Underground,Lafayette_IN_US,The_Godfather,Unpublished,9600,CM,ITN,INA:theunderground.us,IBN:24554
 ,103,Space_Junk,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:spacejunkbbs.com,IBN:24557
 ,104,Bloodlust,Queensland_AUS,apam,Unpublished,9600,CM,ITN,INA:starlight.zapto.org,IBN:24556
 ,105,The_Ruins,Lafayette_IN_US,Jaxson,Unpublished,9600,CM,ITN,INA,theunderground.us,IBN:24555
 ,106,USS_Excelsior_BBS,London_ON_CA,DARKMAN_ALMIGHTY,Unpublished,9600,CM,ITN,INA,excelsiorbbs.ddns.net,IBN:24554
+,107,USS_Lunatics_Unleashed,Buffalo_NY_US,COZMO,Unpublished,9600,CM,ITN,INA,lunaticsunleashed.ddns.net,IBN:24554
 ;S
 ;S
 ;S Mail Processing
