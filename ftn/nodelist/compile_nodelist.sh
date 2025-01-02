@@ -3,21 +3,17 @@
 # Original author: Christian Sacks
 # https://github.com/christiansacks/tqwnet_nodelist/
 
+#!/bin/bash
+# Updated script to fix errors
+# v2.1 - Christian Sacks
+
 ORIGDIR=$PWD
-IWORKDIR="~/git/ghostnet/ftn/nodelist"
-IPACKDIR="~/git/ghostnet/ftn/infopack"
+IWORKDIR="$HOME/git/ghostnet/ftn/nodelist"
+IPACKDIR="$HOME/git/ghostnet/ftn/infopack"
 WORKDIR="${1:-$IWORKDIR}"
 PACKDIR="${2:-$IPACKDIR}"
 
 COMMIT="Post compile auto-commit: $(date "+%Y-%m-%d %H:%M:%S")"
-
-ISOK=false
-
-#echo -n "Did you save and commit changes in both $IWORKDIR and $IPACKDIR?: "; read ANSWER
-#case "$ANSWER" in
-#  "no")  echo "Aborted, go save and commit!"; exit 1;;
-#  *) echo "continue";;
-#esac
 
 echo "*** DID YOU SAVE AND COMMIT YOUR CHANGES TO BOTH $WORKDIR AND $PACKDIR? ***"
 for i in {5..1}; do
@@ -26,42 +22,61 @@ for i in {5..1}; do
 done
 echo "0. Times up!"
 
-cd $WORKDIR
-git pull
+# Ensure directories exist
+if [ ! -d "$WORKDIR" ] || [ ! -d "$PACKDIR" ]; then
+  echo "Error: $WORKDIR or $PACKDIR does not exist."
+  exit 1
+fi
+
+cd "$WORKDIR" || exit
+git pull || { echo "Failed to pull $WORKDIR"; exit 1; }
 
 echo "Compiling nodelist..."
-./makenl -d nodelist.txt >/dev/null
+if ! ./makenl -d nodelist.txt >/dev/null; then
+  echo "Error compiling nodelist."
+  exit 1
+fi
 
-absfile=$(ls -rt outfile/ghostftn.[0-9]*|tail -1)
-file=$(echo $(basename $absfile))
-ext=$(echo $file | awk -F. '{ print $2 }') 
-newext="z${ext:1:2}" 
+absfile=$(ls -rt outfile/ghostftn.[0-9]* 2>/dev/null | tail -1)
+if [ -z "$absfile" ]; then
+  echo "No nodelist output file found."
+  exit 1
+fi
+
+file=$(basename "$absfile")
+ext=$(echo "$file" | awk -F. '{ print $2 }')
+newext="z${ext:1:2}"
 
 echo "Creating zip archive ghostftn.$newext..."
-[ -f zip/ghostftn.$newext ] && mv zip/ghostftn.$newext{,.`date +%Y%m%d`}
-zip -j9 zip/ghostftn.$newext $absfile
+[ -f "zip/ghostftn.$newext" ] && mv "zip/ghostftn.$newext" "zip/ghostftn.$newext.$(date +%Y%m%d)"
+zip -j9 "zip/ghostftn.$newext" "$absfile" || { echo "Failed to create zip."; exit 1; }
 
 git add . -A
 git commit -m "$COMMIT"
 git push
 
-cd $PACKDIR
+cd "$PACKDIR" || exit
 echo "Now in $PACKDIR directory..."
 
-git pull
+git pull || { echo "Failed to pull $PACKDIR"; exit 1; }
 
-rm $PACKDIR/ghostftn.z*
-rm $PACKDIR/ghostftninfo.zip
+echo "Removing old files..."
+rm -f ghostftn.z* ghostftninfo.zip
 
-echo "Copy $WORKDIR/zip/ghostftn.$newext $PACKDIR/"
-cp $WORKDIR/zip/ghostftn.$newext $PACKDIR/
+if [ ! -f "$WORKDIR/zip/ghostftn.$newext" ]; then
+  echo "File $WORKDIR/zip/ghostftn.$newext does not exist."
+  exit 1
+fi
 
-echo "Creating zip archive $PACKDIR/ghostftninfo.zip..."
-zip -j9 $PACKDIR/ghostftninfo.zip $PACKDIR/*
+echo "Copying $WORKDIR/zip/ghostftn.$newext to $PACKDIR..."
+cp "$WORKDIR/zip/ghostftn.$newext" "$PACKDIR/"
+
+echo "Creating zip archive ghostftninfo.zip..."
+zip -j9 ghostftninfo.zip ./* || { echo "Failed to create ghostftninfo.zip."; exit 1; }
 
 git add . -A
 git commit -m "$COMMIT"
 git push
 
-cd $ORIGDIR
-
+cd "$ORIGDIR" || exit
+echo "Done."
