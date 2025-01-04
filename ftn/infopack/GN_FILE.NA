@@ -7,8 +7,8 @@
 % ------------------------------------------------------------------------
 %
 %
-Area GN_NODE    0	!	Weekly Nodelists
-Area GN_INFO    0	!	Weekly Infopacks
+Area GN_NODE    0 ! Weekly Nodelists
+Area GN_INFO    0 ! Weekly Infopacks
 Area GN_PACK    0 ! Scene Art Packs
 Area GN_UTIL    0 ! BBS Software & Utilities
 Area GN_DOOR    0 ! BBS Doors
