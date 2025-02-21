@@ -1,0 +1,46 @@
+The below are basic instructions to setting GHOSTnet on your WWIV BBS.  Your directories may vary, the instructions 
+assume you are using the stock setup provided when installing WWIV BBS.
+
+1.  Create a directory for your new GhostNet network:
+/opt/wwiv/networks/ghostnet
+2.  Download and place in that directory:
+bbslist.net
+binkp.net
+categ.net
+connect.net
+subs.lst
+3.  If desired, download the ghostnet.ans file into your  /opt/wwiv/gfiles directory to be displayed where you see
+fit to let your users know you're a member of GHOSTnet.
+4.  From command line, go into your wwivconfig or ./wwivconfig for linux users.
+5.  Select option "N" for networks, then option 'I' to insert a new network, and select which network you want to insert 
+GhostNet to display before.  I usually just select the last number, in my case being 4, in your case maybe 2 if your
+only other network is WWIVnet.
+6. You will then select the "type" of network as WWIVnet.  For WWIV, GHOSTnet uses WWIV networking.
+7. A new screen will appear with Netname, Directory, Node #, and Callout.net options.  Lets address the first 3:
+   Netname:  GhostNet
+   Directory:  /opt/wwiv/networks/ghostnet/
+   Node #:  If you've been approved, you will have been assigned a node number to enter here.
+8. Now lets address callout.net.  You will hit enter here, keep the node as @1 which is whom you're connecting to 
+to receive GHOSTnet mail and subboard posts.  The following options will be available for you:
+   Password:  You provided us a password during your application, you enter that here.  Be careful to enter this
+   correctly and in all uppper case.  If the hub and your password do not match, you will receive an unathorized
+   access error in your logs and will not connect to the server nor receive mail packets.
+   Allow Outbound Connections:  Yes (You want this set to yes so that your BBS calls the hub to receive packets)
+                                    the hub will not make calls to you.
+   Call every N Minutes:  60  (Set this to every 60 minutes should be sufficient)
+   Call when minimum k waiting: 0 (you may not have mail, but we may have messages for you so leave this 0)
+   Call between hours of:  -1  and -1  in other words unless you have a reason, most BBSes are open 24 hours these days
+   Hide from Pending List:  No (keep set to no). 
+9.  Once you've completed this section you can hit the [ESC] to review all of the aforementioned until you are back to
+the command line.  Don't worry (or do) WWIV will automatically save what you created.
+10.  As long as your bbslist.net, binkp.net, connect.net are within your /opt/wwiv/networks/ghostnet/ directory
+you are ready to attempt your first connection.  You may do so by loading ./bbs, typing "/" the forward slash, and 
+hitting [ENTER].  This will force a callout to the GHOSTnet hub.
+
+These are the basic instructions on setting up your WWIV BBS with GHOSTnet.  While we appreciate ones purist desire
+to stay within the CLI and BBS space to get this setup, for screen shots and additional help, particularly with setting
+up the GHOSTnet Subboards, we suggest finding us on the discord server via the invite provided to you when signing up.
+We also suggest setting up, at minimum, the "GHOSTnet SysOps Landing Page" so that you may test your connection to see
+if other GHOSTnet SysOps are able to receive your connection.
+
+If you made it this far, congrats on your first steps toward getting GHOSTed!
