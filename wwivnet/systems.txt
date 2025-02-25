@@ -12,10 +12,10 @@ Node BBS Name                   Sysop                   Address
 WWIVnet BBSs
 ============
 
-@1 GHOSTnet WWIV Hub            Robbie Whiting          get-ghosted.com:24557
+@1 GHOSTnet WWIV Hub            j0hnny a1pha, R3C0n     get-ghosted.com:24557
 @2 Ghosts in the Machine        R3C0N Ghost             ghostmachine.ddns.net:24557
-@3 Space Junk!                  Robbie Whiting          spacejunkbbs.com:24555
+@3 Space Junk!                  j0hnny a1pha            spacejunkbbs.com:24555
 @4 Available 
-@5 GHOSTnet WWIV/FTN Bridge     Robbie Whiting          ghostnet-bridge:24559                 
+@5 GHOSTnet WWIV/FTN Bridge     j0hnny a1pha            ghostnet-bridge:24559                 
 @6 Broke Down Palace            Shaggy                  palace.brokedownpalace.online:24554
 @7 Lair of the Wolverine                                bbs.theshardforge.cc:24554
