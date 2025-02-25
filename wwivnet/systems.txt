@@ -12,7 +12,7 @@ Node BBS Name                   Sysop                   Address
 WWIVnet BBSs
 ============
 
-@1 GHOSTnet WWIV Hub      R3C0N          get-ghosted.com:24557
+@1 GHOSTnet WWIV Hub      R3C0N          ghostnet-wwiv.com:24557
 @2 Ghosts in the Machine  R3C0N          ghostmachine.ddns.net:24557
 @3 Space Junk!            j0hnny a1pha   spacejunkbbs.com:24555
 @4 Available              ---            --- 
