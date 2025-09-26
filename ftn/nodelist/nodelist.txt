@@ -20,9 +20,10 @@ Host,1,GHOSTnet_R1_HQ,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:get-g
 Hub,100,GHOSTnet_US_HQ,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:get-ghosted.com,IBN:24558
 ,101,GHOSTnet_Talisman_Bridge,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,CM,ITN,INA:ghostnet-bridge.com,IBN:24555
 ,102,The_Underground,Lafayette_IN_US,The_Godfather,Unpublished,9600,CM,ITN,INA:theunderground.us,IBN:24554
-,103,Space_Junk,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:spacejunkbbs.com,IBN:24557
-,104,Bloodlust,Queensland_AUS,apam,Unpublished,9600,CM,ITN,INA:starlight.zapto.org,IBN:24556
+,103,Broken_Bit_Syndicate,Berkeley_CA_US,j0hnny_a1pha,Unpublished,9600,ICM,INA:spacejunkbbs.com,IBN:24557
 ,105,The_Ruins,Lafayette_IN_US,Jaxson,Unpublished,9600,CM,ITN,INA,theunderground.us,IBN:24555
 ,106,USS Excelsior_BBS,London_ON_CA,DARKMAN_ALMIGHTY,Unpublished,9600,CM,ITN,INA,excelsiorbbs.ddns.net,IBN:24554
-,107,USS Lunatics Unleashed,Buffalo_NY_US,COZMO,Unpublished,9600,CM,ITN,INA,lunaticsunleashed.ddns.net,IBN:24554
+,107,Lunatics_Unleashed,Buffalo_NY_US,COZMO,Unpublished,9600,CM,ITN,INA,lunaticsunleashed.ddns.net,IBN:24554
+,108,HeXeD,Troy_OH_US,Scuz,Unpublished,9600,CM,ITN,INA,Hexedbbs.com,IBN:24553
+,109,Quinn,Toowoomba_Queensland_AU,Apam,Unpublished,9600,CM,ITN,INA,bbs.quinnos.com,IBN:24554
 

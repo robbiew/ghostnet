@@ -1,11 +1,9 @@
-#!/bin/bash
+#!/usr/bin/bash
+
 # v2
 # Original author: Christian Sacks
 # https://github.com/christiansacks/tqwnet_nodelist/
 
-#!/bin/bash
-# Updated script to fix errors
-# v2.1 - Christian Sacks
 
 ORIGDIR=$PWD
 IWORKDIR="$HOME/git/ghostnet/ftn/nodelist"
